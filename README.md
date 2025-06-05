@@ -1,4 +1,4 @@
 # aditidemo
 Demo Repository
 <br>
-Author - Aditi Namsale
+Author - Aditi
